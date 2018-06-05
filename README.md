@@ -1,2 +1,2 @@
 # LVis
-Having fun with linear algebra (mostly vectors) in C++ and OpenGL
+Moved to https://gitlab.com/kissbeni/LVis
